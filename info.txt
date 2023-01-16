@@ -10,4 +10,7 @@ npm install mysql2
 
 #DEPENDENCIAS DE DESENVOLVIMENTO:
 npm install nodemon -D
-npm install do
+npm install dotenv
+
+PADRONIZAR O CÓDIGO:
+npx eslint --init
