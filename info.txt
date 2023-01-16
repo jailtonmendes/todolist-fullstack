@@ -1,0 +1,13 @@
+#CRIAR ARQUIVO PACKJSON: 
+npm ini -y
+
+#INSTALAR DEPENDENCIAS DO EXPRESS:
+npm install express
+
+
+#INSTALAR MYSQL2 PARA FAZER CONEXÕES COM O BANCO:
+npm install mysql2
+
+#DEPENDENCIAS DE DESENVOLVIMENTO:
+npm install nodemon -D
+npm install do
